@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    width: 295px;
+    height: 50px;
+    margin: auto;
+    margin-top: 17%;
+}
+button{
+    background-color: black;
+    color: azure;
+    width: 100px;
+    height: 50px;
+    margin-left: 45%;
+}
+
